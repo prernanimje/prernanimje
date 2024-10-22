@@ -1,3 +1,4 @@
+![logo](https://github.com/prernanimje/prernanimje/blob/main/Grey%20%20Banner.png)
 <h1 align="center">Hi 👋, I'm Prerna Nimje</h1>
 <h3 align="center">A passionate Software developer from India as a fresher</h3>
 
